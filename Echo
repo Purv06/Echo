@@ -1,1 +1,28 @@
 
+[
+    {
+      "url": "https://raw.githubusercontent.com/Purv06/echo.json/main/Wall%20(1).jpg",
+      "name": "wall 1",
+      "thumbnail": "https://raw.githubusercontent.com/Purv06/echo.json/main/Wall%20(1).jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Purv06/echo.json/blob/main/Wall%20(10)%20(2).jpg",
+      "name": "wall 2",
+      "thumbnail": "https://raw.githubusercontent.com/Purv06/echo.json/blob/main/Wall%20(10)%20(2).jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Purv06/echo.json/main/Wall%20(10)%20(1).jpg",
+      "name": "wall 3",
+      "thumbnail": "https://raw.githubusercontent.com/Purv06/echo.json/main/Wall%20(10)%20(1).jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Purv06/echo.json/blob/main/Wall%20(10)%20(3).jpg",
+      "name": "wall 4",
+      "thumbnail": "https://raw.githubusercontent.com/Purv06/echo.json/blob/main/Wall%20(10)%20(3).jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Purv06/echo.json/blob/main/Wall%20(10)%20(4).jpg",
+      "name": "wall 5",
+      "thumbnail": "https://raw.githubusercontent.com/Purv06/echo.json/blob/main/Wall%20(10)%20(4).jpg"
+    }
+]
